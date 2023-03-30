@@ -1,0 +1,26 @@
+/Users/monil.gandhi/Projects/MAUIUnitTestDemo/MAUIUnitTestDemo/bin/Debug/net7.0/MAUIUnitTestDemo.deps.json
+/Users/monil.gandhi/Projects/MAUIUnitTestDemo/MAUIUnitTestDemo/bin/Debug/net7.0/MAUIUnitTestDemo.dll
+/Users/monil.gandhi/Projects/MAUIUnitTestDemo/MAUIUnitTestDemo/bin/Debug/net7.0/MAUIUnitTestDemo.pdb
+/Users/monil.gandhi/Projects/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/MAUIUnitTestDemo.csproj.AssemblyReference.cache
+/Users/monil.gandhi/Projects/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/MAUIUnitTestDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monil.gandhi/Projects/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/MAUIUnitTestDemo.AssemblyInfoInputs.cache
+/Users/monil.gandhi/Projects/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/MAUIUnitTestDemo.AssemblyInfo.cs
+/Users/monil.gandhi/Projects/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/MAUIUnitTestDemo.csproj.CoreCompileInputs.cache
+/Users/monil.gandhi/Projects/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/XamlC.stamp
+/Users/monil.gandhi/Projects/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/MAUIUnitTestDemo.dll
+/Users/monil.gandhi/Projects/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/refint/MAUIUnitTestDemo.dll
+/Users/monil.gandhi/Projects/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/MAUIUnitTestDemo.pdb
+/Users/monil.gandhi/Projects/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/ref/MAUIUnitTestDemo.dll
+/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/bin/Debug/net7.0/MAUIUnitTestDemo.deps.json
+/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/bin/Debug/net7.0/MAUIUnitTestDemo.dll
+/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/bin/Debug/net7.0/MAUIUnitTestDemo.pdb
+/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/MAUIUnitTestDemo.csproj.AssemblyReference.cache
+/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/MAUIUnitTestDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/MAUIUnitTestDemo.AssemblyInfoInputs.cache
+/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/MAUIUnitTestDemo.AssemblyInfo.cs
+/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/MAUIUnitTestDemo.csproj.CoreCompileInputs.cache
+/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/XamlC.stamp
+/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/MAUIUnitTestDemo.dll
+/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/refint/MAUIUnitTestDemo.dll
+/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/MAUIUnitTestDemo.pdb
+/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0/ref/MAUIUnitTestDemo.dll
