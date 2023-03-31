@@ -1,39 +1,36 @@
 ﻿<Properties StartupConfiguration="{0BAEE52F-0730-4CEF-B4D6-0B18C5DDA1A5}|Default">
-  <MonoDevelop.Ide.ItemProperties.MAUIUnitTestDemo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTestProject/UnitTest1.cs">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9306B3B0-3FCD-4957-A0B5-744FEAF5835C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTestProject/LoginPageViewModelTest.cs">
     <Files>
-      <File FileName="UnitTestProject/UnitTest1.cs" Line="49" Column="23" />
-      <File FileName="MAUIUnitTestDemo/Modal.cs" />
+      <File FileName="UnitTestProject/LoginPageViewModelTest.cs" Line="41" Column="1" />
+      <File FileName="MAUIUnitTestDemo/Login/LoginPageViewModel.cs" Line="78" Column="35" />
+      <File FileName="MAUIUnitTestDemo/Login/IAuthenticationService.cs" Line="33" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MAUIUnitTestDemo" expanded="True">
-            <Node name="MAUIUnitTestDemo" expanded="True" />
-            <Node name="UnitTestProject" expanded="True">
-              <Node name="UnitTest1.cs" selected="True" />
+          <Node name="MAUIUnitTestDemo" expanded="True" selected="True">
+            <Node name="MAUIUnitTestDemo" expanded="True">
+              <Node name="Contact" expanded="True" />
+              <Node name="Login" expanded="True" />
             </Node>
+            <Node name="UnitTestProject" expanded="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="MAUIUnitTestDemo" expanded="True" selected="True">
-            <Node name="UnitTestProject" expanded="True">
-              <Node name="UnitTestProject" expanded="True">
-                <Node name="UnitTest1" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="MAUIUnitTestDemo" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.61B8CD7F-5CBC-4FE4-A086-7E0A41B86050" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MAUIUnitTestDemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9306B3B0-3FCD-4957-A0B5-744FEAF5835C" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.UnitTestProject PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

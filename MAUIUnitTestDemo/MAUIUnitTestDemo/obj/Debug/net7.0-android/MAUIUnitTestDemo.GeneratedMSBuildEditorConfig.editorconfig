@@ -12,33 +12,33 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = MAUIUnitTestDemo
-build_property.ProjectDir = /Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/
+build_property.ProjectDir = /Users/monil.gandhi/Downloads/IDP/MAUI-Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/
 
-[/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/App.xaml]
+[/Users/monil.gandhi/Downloads/IDP/MAUI-Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUIUnitTestDemo.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/AppShell.xaml]
+[/Users/monil.gandhi/Downloads/IDP/MAUI-Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUIUnitTestDemo.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/MainPage.xaml]
+[/Users/monil.gandhi/Downloads/IDP/MAUI-Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUIUnitTestDemo.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/Resources/Styles/Colors.xaml]
+[/Users/monil.gandhi/Downloads/IDP/MAUI-Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUIUnitTestDemo.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
 
-[/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/Resources/Styles/Styles.xaml]
+[/Users/monil.gandhi/Downloads/IDP/MAUI-Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUIUnitTestDemo.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml

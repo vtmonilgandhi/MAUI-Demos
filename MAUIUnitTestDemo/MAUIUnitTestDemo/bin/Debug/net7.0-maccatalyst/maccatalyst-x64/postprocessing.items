@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>MAUIUnitTestDemo.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/monil.gandhi/Downloads/IDP/MAUI-Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>MAUIUnitTestDemo.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/monil.gandhi/Downloads/MAUI Demos/MAUIUnitTestDemo/MAUIUnitTestDemo</SourceProjectPath>
+      <SourceProjectPath>/Users/monil.gandhi/Downloads/IDP/MAUI-Demos/MAUIUnitTestDemo/MAUIUnitTestDemo</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>
