@@ -6,20 +6,13 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="UnitTestProject/LoginPageViewModelTest.cs">
     <Files>
-      <File FileName="UnitTestProject/LoginPageViewModelTest.cs" Line="41" Column="1" />
-      <File FileName="MAUIUnitTestDemo/Login/LoginPageViewModel.cs" Line="78" Column="35" />
-      <File FileName="MAUIUnitTestDemo/Login/IAuthenticationService.cs" Line="33" Column="14" />
+      <File FileName="UnitTestProject/LoginPageViewModelTest.cs" Line="88" Column="10" />
+      <File FileName="MAUIUnitTestDemo/Login/LoginPageViewModel.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MAUIUnitTestDemo" expanded="True" selected="True">
-            <Node name="MAUIUnitTestDemo" expanded="True">
-              <Node name="Contact" expanded="True" />
-              <Node name="Login" expanded="True" />
-            </Node>
-            <Node name="UnitTestProject" expanded="True" />
-          </Node>
+          <Node name="MAUIUnitTestDemo" expanded="True" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
