@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E3B29ADA-D46C-455B-A28D-97AD793C55BA}|Default">
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.0.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ColorMaker/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ColorMaker/MainPage.xaml.cs" Line="52" Column="34" />
+      <File FileName="ColorMaker/MainPage.xaml" Line="48" Column="66" />
+      <File FileName="ColorMaker/MauiProgram.cs" Line="13" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ColorMaker" expanded="True">
+            <Node name="ColorMaker" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BED8BE66-2B16-4DBD-AB0E-46558CC4C8C0" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ColorMaker PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BED8BE66-2B16-4DBD-AB0E-46558CC4C8C0" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{96343696-1CF0-4F5B-AD59-16BF877F5E18}|Default">
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.26" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PagesDemo/TabbedPageDemo.xaml">
+    <Files>
+      <File FileName="PagesDemo/FlyoutPageDemo.xaml" Line="17" Column="47" />
+      <File FileName="PagesDemo/FlyoutPageDemo.xaml.cs" Line="3" Column="49" />
+      <File FileName="PagesDemo/App.xaml.cs" Line="13" Column="32" />
+      <File FileName="PagesDemo/TabbedPageDemo.xaml" Line="11" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PagesDemo" expanded="True">
+            <Node name="PagesDemo" expanded="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="iOS" expanded="True" />
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="Images" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="ContentPageDemo.xaml" expanded="True" />
+              <Node name="FlyoutPageDemo.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="TabbedPageDemo.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_6_Pro_API_UpsideDownCake" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PagesDemo PreferredExecutionTarget="Android.Pixel_6_Pro_API_UpsideDownCake" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
