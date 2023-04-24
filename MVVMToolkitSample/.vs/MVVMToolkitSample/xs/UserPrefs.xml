@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{CC136FCA-BD84-463A-B502-FC7F59021CFC}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVVMToolkitSample/MVVM/ViewModels/DemoViewModel.cs">
+    <Files>
+      <File FileName="MVVMToolkitSample/MVVM/Models/FakePerson.cs" Line="27" Column="6" />
+      <File FileName="MVVMToolkitSample/MVVM/Models/DemoModel.cs" />
+      <File FileName="MVVMToolkitSample/MVVM/ViewModels/DemoViewModel.cs" Line="22" Column="24" />
+      <File FileName="MVVMToolkitSample/MVVM/Views/DemoPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVVMToolkitSample" expanded="True">
+            <Node name="MVVMToolkitSample" expanded="True">
+              <Node name="MVVM" expanded="True">
+                <Node name="Models" expanded="True" />
+                <Node name="ViewModels" expanded="True">
+                  <Node name="DemoViewModel.cs" selected="True" />
+                </Node>
+                <Node name="Views" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MVVMToolkitSample PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

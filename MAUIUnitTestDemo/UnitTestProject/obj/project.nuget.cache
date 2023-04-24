@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mRm9Ln3HhdZb6XDPGzQYu8vVVTpcEY8tAK8LFahORjFMJ/bWTTx+cQiPfI+n6OOkiR3bQfxB6Fo6m6arfV5EjQ==",
+  "dgSpecHash": "olHpzDTAbYCHBPl/smCoP5KPABJ4bPID7uAQi+ETUKtn19Bj9SYYrCU/Fa2DfiP0H2hBPVTE33YLzZJ5KXObMw==",
   "success": true,
   "projectFilePath": "/Users/monil.gandhi/Downloads/IDP/MAUI-Demos/MAUIUnitTestDemo/UnitTestProject/UnitTestProject.csproj",
   "expectedPackageFiles": [
@@ -17,7 +17,7 @@
     "/Users/monil.gandhi/.nuget/packages/microsoft.extensions.logging.debug/7.0.0/microsoft.extensions.logging.debug.7.0.0.nupkg.sha512",
     "/Users/monil.gandhi/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/monil.gandhi/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
-    "/Users/monil.gandhi/.nuget/packages/microsoft.maui.graphics/7.0.59/microsoft.maui.graphics.7.0.59.nupkg.sha512",
+    "/Users/monil.gandhi/.nuget/packages/microsoft.maui.graphics/7.0.81/microsoft.maui.graphics.7.0.81.nupkg.sha512",
     "/Users/monil.gandhi/.nuget/packages/microsoft.net.test.sdk/17.3.2/microsoft.net.test.sdk.17.3.2.nupkg.sha512",
     "/Users/monil.gandhi/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/monil.gandhi/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",

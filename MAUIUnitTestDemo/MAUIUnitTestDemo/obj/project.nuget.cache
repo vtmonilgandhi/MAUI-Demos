@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "s9IMD1IJv4p0OD/aHNwBBV7xFBkAnEchZeCkyvKN4YYgtMcIu1K+KgabpZ2oj5MKXQeVkau51z/yzXax+I32ug==",
+  "dgSpecHash": "TIuREBcMNjn0J0RvaCPaFO65sjmGZAiy5L6o4UD59Kr1jfgc54GeyhJ/7rSuPqA0xjGO5bH4pgVHvycx5OOlQQ==",
   "success": true,
   "projectFilePath": "/Users/monil.gandhi/Downloads/IDP/MAUI-Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/MAUIUnitTestDemo.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,7 @@
     "/Users/monil.gandhi/.nuget/packages/microsoft.extensions.logging.debug/7.0.0/microsoft.extensions.logging.debug.7.0.0.nupkg.sha512",
     "/Users/monil.gandhi/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/monil.gandhi/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
-    "/Users/monil.gandhi/.nuget/packages/microsoft.maui.graphics/7.0.59/microsoft.maui.graphics.7.0.59.nupkg.sha512",
+    "/Users/monil.gandhi/.nuget/packages/microsoft.maui.graphics/7.0.81/microsoft.maui.graphics.7.0.81.nupkg.sha512",
     "/Users/monil.gandhi/.nuget/packages/moq/4.18.4/moq.4.18.4.nupkg.sha512",
     "/Users/monil.gandhi/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "/Users/monil.gandhi/.nuget/packages/xamarin.android.glide/4.13.2.2/xamarin.android.glide.4.13.2.2.nupkg.sha512",

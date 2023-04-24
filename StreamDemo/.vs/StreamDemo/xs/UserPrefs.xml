@@ -1,6 +1,7 @@
 ﻿<Properties StartupConfiguration="{160467BC-B129-4BA7-A74C-AD6BF66BD31E}|Default">
-  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.26" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StreamDemo/MainPage.xaml">
+  <MonoDevelop.Ide.ItemProperties.StreamDemo Xamarin.HotReload.EntryPointException.StreamDemo.HideInfoBar="True" PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StreamDemo/MauiProgram.cs">
     <Files>
       <File FileName="StreamDemo/MainPage.xaml.cs" />
       <File FileName="StreamDemo/MainPage.xaml" Line="9" Column="38" />
@@ -12,19 +13,24 @@
         <State name="__root__">
           <Node name="StreamDemo" expanded="True">
             <Node name="StreamDemo" expanded="True">
-              <Node name="MainPage.xaml" expanded="True" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="net7.0-android" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MauiProgram.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_6_Pro_API_UpsideDownCake" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.26" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.StreamDemo PreferredExecutionTarget="Android.Pixel_6_Pro_API_UpsideDownCake" Xamarin.HotReload.EntryPointException.StreamDemo.HideInfoBar="True" />
 </Properties>

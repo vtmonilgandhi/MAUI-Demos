@@ -3109,3 +3109,5 @@
 /Users/monil.gandhi/Downloads/IDP/MAUI-Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0-android/stamp/_GenerateJavaStubs.stamp
 /Users/monil.gandhi/Downloads/IDP/MAUI-Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0-android/stamp/_GeneratePackageManagerJava.stamp
 /Users/monil.gandhi/Downloads/IDP/MAUI-Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0-android/stamp/_ResolveLibraryProjectImports.stamp
+/Users/monil.gandhi/Downloads/IDP/MAUI-Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0-android/libraryprojectimports.cache
+/Users/monil.gandhi/Downloads/IDP/MAUI-Demos/MAUIUnitTestDemo/MAUIUnitTestDemo/obj/Debug/net7.0-android/android/src/crc64338477404e88479c/GenericGlobalLayoutListenerImproved.java

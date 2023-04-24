@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uz90iNtM4eAnMNIO2ibcNmu8NNyAC4SLBbkR4Bl9DRvS44WAEf4RtoqXGw1sFNEe8GUNv8aT3KGWo/R+8lOJ7w==",
+  "dgSpecHash": "kB+Q15pKG2wKSmisBl/9leshcHdgySeRsRoUjY8ZR5GDPSwdBxTmOAX1agyq9FiJ4mAlZaMuQP+LBi4DOQUrug==",
   "success": true,
   "projectFilePath": "/Users/monil.gandhi/Downloads/IDP/MAUI-Demos/StreamDemo/StreamDemo/StreamDemo.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,7 @@
     "/Users/monil.gandhi/.nuget/packages/microsoft.extensions.logging.debug/7.0.0/microsoft.extensions.logging.debug.7.0.0.nupkg.sha512",
     "/Users/monil.gandhi/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/monil.gandhi/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
-    "/Users/monil.gandhi/.nuget/packages/microsoft.maui.graphics/7.0.59/microsoft.maui.graphics.7.0.59.nupkg.sha512",
+    "/Users/monil.gandhi/.nuget/packages/microsoft.maui.graphics/7.0.81/microsoft.maui.graphics.7.0.81.nupkg.sha512",
     "/Users/monil.gandhi/.nuget/packages/xam.plugins.android.exoplayer/2.18.10/xam.plugins.android.exoplayer.2.18.10.nupkg.sha512",
     "/Users/monil.gandhi/.nuget/packages/xam.plugins.android.exoplayer.common/2.18.10/xam.plugins.android.exoplayer.common.2.18.10.nupkg.sha512",
     "/Users/monil.gandhi/.nuget/packages/xam.plugins.android.exoplayer.core/2.18.10/xam.plugins.android.exoplayer.core.2.18.10.nupkg.sha512",

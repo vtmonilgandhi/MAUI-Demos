@@ -1,29 +1,43 @@
 ﻿<Properties StartupConfiguration="{0BAEE52F-0730-4CEF-B4D6-0B18C5DDA1A5}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9306B3B0-3FCD-4957-A0B5-744FEAF5835C" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="UnitTestProject/LoginPageViewModelTest.cs">
     <Files>
-      <File FileName="UnitTestProject/LoginPageViewModelTest.cs" Line="88" Column="10" />
-      <File FileName="MAUIUnitTestDemo/Login/LoginPageViewModel.cs" Line="1" Column="1" />
+      <File FileName="MAUIUnitTestDemo/MAUIUnitTestDemo.csproj" Line="19" Column="48" />
+      <File FileName="UnitTestProject/LoginPageViewModelTest.cs" Line="12" Column="118" />
+      <File FileName="MAUIUnitTestDemo/Login/IAuthenticationService.cs" Line="10" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MAUIUnitTestDemo" expanded="True" selected="True" />
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="MAUIUnitTestDemo" expanded="True" />
+          <Node name="MAUIUnitTestDemo" expanded="True">
+            <Node name="MAUIUnitTestDemo" expanded="True">
+              <Node name="Login" expanded="True" />
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="UnitTestProject" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="Moq" expanded="True">
+                    <Node name="Castle.Core" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="LoginPageViewModelTest.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MAUIUnitTestDemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9306B3B0-3FCD-4957-A0B5-744FEAF5835C" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.UnitTestProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_6_Pro_API_UpsideDownCake" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MAUIUnitTestDemo PreferredExecutionTarget="Android.Pixel_6_Pro_API_UpsideDownCake" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.46" />
 </Properties>
